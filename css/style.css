@@ -1,0 +1,67 @@
+/* header css */
+.head{
+	overflow: hidden;
+
+}
+.head .logo{
+	float:left;
+	width:20%;
+	background-color:red;
+	min-height:40px;
+}
+.head .menu{
+	float:right;
+	width:80%;
+	background-color:green;
+	min-height:40px;
+}
+/* header css */
+
+/* banner css */
+.banner{
+	background-color:purple;
+	min-height:300px;
+}
+/* banner css */
+
+/* navigation css */
+.banner{
+	overflow:hidden;
+}
+.nav .ceo{
+	float:left;
+	width:32%;
+	background-color:orange;
+	min-height:150px;
+}
+.nav .branding{
+	float:left;
+	width:34%;
+	background-color:blue;
+	min-height:150px;
+}
+.nav .log{
+	float:right;
+	width:34%;
+	background-color:steelblue;
+	min-height:150px;
+}
+/* navigation css */
+
+/* contant css */
+.con{
+	overflow:hidden;
+}
+.con .text{
+	float:left;
+	width:70%;
+	background-color:green;
+	min-height:250px;
+}
+.con .pic{
+	float:right;
+	width:30%;
+	background-color:#AB274F;
+	min-height:250px;
+}
+/* contant css */
