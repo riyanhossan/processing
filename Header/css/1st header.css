@@ -1,0 +1,38 @@
+*{
+	margin:0;
+	padding:0;
+}
+.header{
+	overflow:hidden;
+}
+.warraper{
+	
+	margin:auto;
+}
+.logo{
+	margin:50px 60px;
+
+	width: 15%;
+	float: left;
+}
+.img{
+	width: 100%;
+}
+.about{
+
+	width:85%;
+	float:right;
+
+}
+.about ul{
+	
+	list-style-type: none;
+	text-align: right;
+	margin-top: 20px;
+}
+.about ul li{
+	display: inline-block;
+}
+.about ul li a{
+
+}
